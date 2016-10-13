@@ -1,0 +1,166 @@
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\bin\Debug\GPSReminder.exe
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\bin\Debug\GPSReminder.pdb
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\bin\Debug\Microsoft.WindowsMobile.Samples.Location.dll
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\bin\Debug\Microsoft.WindowsMobile.Samples.Location.pdb
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\obj\Debug\GPSReminder.GPSStatus.resources
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\obj\Debug\GPSReminder.Properties.Resources.resources
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\obj\Debug\GPSReminder.csproj.GenerateResource.Cache
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\obj\Debug\GPSReminder.exe
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\obj\Debug\GPSReminder.pdb
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\bin\Debug\Images\Error.PNG
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Debug\Images\Error.PNG
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Debug\GPSReminder.exe
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Debug\GPSReminder.pdb
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Debug\Microsoft.WindowsMobile.Samples.Location.pdb
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Debug\ResolveAssemblyReference.cache
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Debug\GPSReminder.Properties.Resources.resources
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Debug\GPSReminder.csproj.GenerateResource.Cache
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Debug\GPSReminder.exe
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Debug\GPSReminder.pdb
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Debug\GPSReminder.HomeScreen.resources
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Debug\GPSReminder.UserInterface.TaskInterface.resources
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Debug\Microsoft.WindowsMobile.dll
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Debug\Microsoft.WindowsMobile.xml
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Debug\TasksAndPlaces.sdf
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Debug\System.Data.SqlClient.dll
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Debug\System.Data.SqlServerCe.dll
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Debug\GPSReminder.UserInterface.PlaceInterface.resources
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Debug\GPSReminder.UserInterface.MyLocation.resources
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Debug\GPSReminder.UserInterface.DeleteTaskOrAssociation.resources
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\bin\Debug\TasksAndPlaces.sdf
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\bin\Debug\Images\Error.PNG
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\bin\Debug\GPSReminder.exe
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\bin\Debug\GPSReminder.pdb
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\bin\Debug\System.Data.SqlClient.dll
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\bin\Debug\Microsoft.WindowsMobile.dll
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\bin\Debug\Microsoft.WindowsMobile.xml
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\bin\Debug\Microsoft.WindowsMobile.Samples.Location.pdb
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.UserInterface.DeleteTaskOrAssociation.resources
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.HomeScreen.resources
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.Properties.Resources.resources
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.UserInterface.MyLocation.resources
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.UserInterface.PlaceInterface.resources
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.UserInterface.TaskInterface.resources
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.csproj.GenerateResource.Cache
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.exe
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.pdb
+C:\Users\SJ ENTERPRISE\Desktop\sushurut\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.UserInterface.About.resources
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\bin\Debug\TasksAndPlaces.sdf
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\bin\Debug\Images\Error.PNG
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\bin\Debug\GPSReminder.exe
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\bin\Debug\GPSReminder.pdb
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\bin\Debug\System.Data.SqlClient.dll
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\bin\Debug\System.Data.SqlServerCe.dll
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\bin\Debug\Microsoft.WindowsMobile.dll
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\bin\Debug\Microsoft.WindowsMobile.xml
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\bin\Debug\Microsoft.WindowsMobile.Samples.Location.pdb
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\obj\Debug\ResolveAssemblyReference.cache
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.UserInterface.About.resources
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.UserInterface.DeleteTaskOrAssociation.resources
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.HomeScreen.resources
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.Properties.Resources.resources
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.UserInterface.MyLocation.resources
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.UserInterface.PlaceInterface.resources
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.UserInterface.TaskInterface.resources
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.csproj.GenerateResource.Cache
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.exe
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\obj\Debug\GPSReminder.pdb
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\bin\Debug\readme.html
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\bin\Debug\Images\ProjectBackground.jpg
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\bin\Debug\Images\BlackImage.jpg
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\bin\Debug\Images\Satellite.png
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\bin\Debug\Images\SatelliteResize.jpg
+D:\College\Project\Your Work\Update_25_11\GPSReminder_Update_18_11\GPSReminder\bin\Debug\Images\TitleImage.jpg
+D:\Update2_12\GPSReminder\bin\Debug\TasksAndPlaces.sdf
+D:\Update2_12\GPSReminder\bin\Debug\Images\Error.PNG
+D:\Update2_12\GPSReminder\bin\Debug\Images\BlackImage.jpg
+D:\Update2_12\GPSReminder\bin\Debug\Images\ProjectBackground.jpg
+D:\Update2_12\GPSReminder\bin\Debug\Images\Satellite.png
+D:\Update2_12\GPSReminder\bin\Debug\Images\SatelliteResize.jpg
+D:\Update2_12\GPSReminder\bin\Debug\Images\TitleImage.jpg
+D:\Update2_12\GPSReminder\bin\Debug\readme.html
+D:\Update2_12\GPSReminder\bin\Debug\GPSReminder.exe
+D:\Update2_12\GPSReminder\bin\Debug\GPSReminder.pdb
+D:\Update2_12\GPSReminder\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+D:\Update2_12\GPSReminder\bin\Debug\System.Data.SqlClient.dll
+D:\Update2_12\GPSReminder\bin\Debug\System.Data.SqlServerCe.dll
+D:\Update2_12\GPSReminder\bin\Debug\Microsoft.WindowsMobile.dll
+D:\Update2_12\GPSReminder\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+D:\Update2_12\GPSReminder\bin\Debug\Microsoft.WindowsMobile.xml
+D:\Update2_12\GPSReminder\bin\Debug\Microsoft.WindowsMobile.Samples.Location.pdb
+D:\Update2_12\GPSReminder\obj\Debug\ResolveAssemblyReference.cache
+D:\Update2_12\GPSReminder\obj\Debug\GPSReminder.UserInterface.About.resources
+D:\Update2_12\GPSReminder\obj\Debug\GPSReminder.UserInterface.DeleteTaskOrAssociation.resources
+D:\Update2_12\GPSReminder\obj\Debug\GPSReminder.HomeScreen.resources
+D:\Update2_12\GPSReminder\obj\Debug\GPSReminder.Properties.Resources.resources
+D:\Update2_12\GPSReminder\obj\Debug\GPSReminder.UserInterface.MyLocation.resources
+D:\Update2_12\GPSReminder\obj\Debug\GPSReminder.UserInterface.PlaceInterface.resources
+D:\Update2_12\GPSReminder\obj\Debug\GPSReminder.UserInterface.TaskInterface.resources
+D:\Update2_12\GPSReminder\obj\Debug\GPSReminder.csproj.GenerateResource.Cache
+D:\Update2_12\GPSReminder\obj\Debug\GPSReminder.exe
+D:\Update2_12\GPSReminder\obj\Debug\GPSReminder.pdb
+D:\Update_7_12\Update2_12\GPSReminder\bin\Debug\TasksAndPlaces.sdf
+D:\Update_7_12\Update2_12\GPSReminder\bin\Debug\Images\Error.PNG
+D:\Update_7_12\Update2_12\GPSReminder\bin\Debug\Images\BlackImage.jpg
+D:\Update_7_12\Update2_12\GPSReminder\bin\Debug\Images\ProjectBackground.jpg
+D:\Update_7_12\Update2_12\GPSReminder\bin\Debug\Images\Satellite.png
+D:\Update_7_12\Update2_12\GPSReminder\bin\Debug\Images\SatelliteResize.jpg
+D:\Update_7_12\Update2_12\GPSReminder\bin\Debug\Images\TitleImage.jpg
+D:\Update_7_12\Update2_12\GPSReminder\bin\Debug\readme.html
+D:\Update_7_12\Update2_12\GPSReminder\bin\Debug\GPSReminder.exe
+D:\Update_7_12\Update2_12\GPSReminder\bin\Debug\GPSReminder.pdb
+D:\Update_7_12\Update2_12\GPSReminder\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+D:\Update_7_12\Update2_12\GPSReminder\bin\Debug\System.Data.SqlClient.dll
+D:\Update_7_12\Update2_12\GPSReminder\bin\Debug\System.Data.SqlServerCe.dll
+D:\Update_7_12\Update2_12\GPSReminder\bin\Debug\Microsoft.WindowsMobile.dll
+D:\Update_7_12\Update2_12\GPSReminder\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+D:\Update_7_12\Update2_12\GPSReminder\bin\Debug\Microsoft.WindowsMobile.xml
+D:\Update_7_12\Update2_12\GPSReminder\bin\Debug\Microsoft.WindowsMobile.Samples.Location.pdb
+D:\Update_7_12\Update2_12\GPSReminder\obj\Debug\ResolveAssemblyReference.cache
+D:\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.UserInterface.About.resources
+D:\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.UserInterface.DeleteTaskOrAssociation.resources
+D:\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.HomeScreen.resources
+D:\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.Properties.Resources.resources
+D:\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.UserInterface.MyLocation.resources
+D:\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.UserInterface.PlaceInterface.resources
+D:\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.UserInterface.TaskInterface.resources
+D:\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.csproj.GenerateResource.Cache
+D:\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.exe
+D:\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.pdb
+H:\Project\Update_7_12\Update2_12\GPSReminder\bin\Debug\Images\Error.PNG
+H:\Project\Update_7_12\Update2_12\GPSReminder\bin\Debug\Images\BlackImage.jpg
+H:\Project\Update_7_12\Update2_12\GPSReminder\bin\Debug\Images\ProjectBackground.jpg
+H:\Project\Update_7_12\Update2_12\GPSReminder\bin\Debug\Images\Satellite.png
+H:\Project\Update_7_12\Update2_12\GPSReminder\bin\Debug\Images\SatelliteResize.jpg
+H:\Project\Update_7_12\Update2_12\GPSReminder\bin\Debug\Images\TitleImage.jpg
+H:\Project\Update_7_12\Update2_12\GPSReminder\bin\Debug\readme.html
+H:\Project\Update_7_12\Update2_12\GPSReminder\bin\Debug\GPSReminder.exe
+H:\Project\Update_7_12\Update2_12\GPSReminder\bin\Debug\GPSReminder.pdb
+H:\Project\Update_7_12\Update2_12\GPSReminder\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+H:\Project\Update_7_12\Update2_12\GPSReminder\bin\Debug\System.Data.SqlClient.dll
+H:\Project\Update_7_12\Update2_12\GPSReminder\bin\Debug\System.Data.SqlServerCe.dll
+H:\Project\Update_7_12\Update2_12\GPSReminder\bin\Debug\Microsoft.WindowsMobile.dll
+H:\Project\Update_7_12\Update2_12\GPSReminder\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+H:\Project\Update_7_12\Update2_12\GPSReminder\bin\Debug\Microsoft.WindowsMobile.xml
+H:\Project\Update_7_12\Update2_12\GPSReminder\bin\Debug\Microsoft.WindowsMobile.Samples.Location.pdb
+H:\Project\Update_7_12\Update2_12\GPSReminder\obj\Debug\ResolveAssemblyReference.cache
+H:\Project\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.UserInterface.About.resources
+H:\Project\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.UserInterface.DeleteTaskOrAssociation.resources
+H:\Project\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.HomeScreen.resources
+H:\Project\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.Properties.Resources.resources
+H:\Project\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.UserInterface.MyLocation.resources
+H:\Project\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.UserInterface.PlaceInterface.resources
+H:\Project\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.UserInterface.TaskInterface.resources
+H:\Project\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.csproj.GenerateResource.Cache
+H:\Project\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.exe
+H:\Project\Update_7_12\Update2_12\GPSReminder\obj\Debug\GPSReminder.pdb
+H:\Project\Update_7_12\Update2_12\GPSReminder\bin\Debug\TasksAndPlaces.sdf

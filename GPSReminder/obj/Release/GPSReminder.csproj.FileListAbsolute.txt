@@ -1,0 +1,42 @@
+C:\Users\Sushrut\AppData\Local\Temporary Projects\GPSReminder\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sushrut\AppData\Local\Temporary Projects\GPSReminder\obj\Release\GPSReminder.GPSStatus.resources
+C:\Users\Sushrut\AppData\Local\Temporary Projects\GPSReminder\obj\Release\GPSReminder.Properties.Resources.resources
+C:\Users\Sushrut\AppData\Local\Temporary Projects\GPSReminder\obj\Release\GPSReminder.csproj.GenerateResource.Cache
+C:\Users\Sushrut\AppData\Local\Temporary Projects\GPSReminder\bin\Release\GPSReminder.exe
+C:\Users\Sushrut\AppData\Local\Temporary Projects\GPSReminder\bin\Release\GPSReminder.pdb
+C:\Users\Sushrut\AppData\Local\Temporary Projects\GPSReminder\bin\Release\Microsoft.WindowsMobile.Samples.Location.dll
+C:\Users\Sushrut\AppData\Local\Temporary Projects\GPSReminder\bin\Release\Microsoft.WindowsMobile.Samples.Location.pdb
+C:\Users\Sushrut\AppData\Local\Temporary Projects\GPSReminder\obj\Release\GPSReminder.exe
+C:\Users\Sushrut\AppData\Local\Temporary Projects\GPSReminder\obj\Release\GPSReminder.pdb
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\obj\Release\GPSReminder.GPSStatus.resources
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\obj\Release\GPSReminder.Properties.Resources.resources
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\obj\Release\GPSReminder.csproj.GenerateResource.Cache
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\obj\Release\GPSReminder.exe
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\bin\Release\GPSReminder.exe
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\bin\Release\GPSReminder.pdb
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\bin\Release\Microsoft.WindowsMobile.Samples.Location.dll
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\bin\Release\Microsoft.WindowsMobile.Samples.Location.pdb
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\obj\Release\GPSReminder.pdb
+C:\Users\Sushrut\Documents\Visual Studio 2008\Projects\GPSReminder\GPSReminder\bin\Release\Images\Error.PNG
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Release\ResolveAssemblyReference.cache
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Release\GPSReminder.Properties.Resources.resources
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Release\GPSReminder.csproj.GenerateResource.Cache
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Release\GPSReminder.exe
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Release\Images\Error.PNG
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Release\GPSReminder.exe
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Release\GPSReminder.pdb
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Release\GPSReminder.pdb
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Release\GPSReminder.HomeScreen.resources
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Release\GPSReminder.UserInterface.TaskInterface.resources
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Release\Microsoft.WindowsMobile.PocketOutlook.dll
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Release\System.Data.SqlClient.dll
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Release\System.Data.SqlServerCe.dll
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Release\Microsoft.WindowsMobile.dll
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Release\Microsoft.WindowsMobile.PocketOutlook.xml
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Release\Microsoft.WindowsMobile.xml
+D:\College\Project\My Work\GPSReminder\GPSReminder\bin\Release\TasksAndPlaces.sdf
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Release\GPSReminder.UserInterface.PlaceInterface.resources
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Release\GPSReminder.UserInterface.AlarmForm.resources
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Release\GPSReminder.UserInterface.MyLocation.resources
+D:\College\Project\My Work\GPSReminder\GPSReminder\obj\Release\GPSReminder.UserInterface.DeleteTaskOrAssociation.resources

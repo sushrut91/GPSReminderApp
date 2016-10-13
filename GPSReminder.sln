@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPSReminder", "GPSReminder\GPSReminder.csproj", "{A653EF54-48FA-4A43-A4DC-AEC13D8AB0D4}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "DeploymentCab", "DeploymentCab\DeploymentCab.vddproj", "{6597861C-A736-49C8-B1B4-9260026B0AED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A653EF54-48FA-4A43-A4DC-AEC13D8AB0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A653EF54-48FA-4A43-A4DC-AEC13D8AB0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A653EF54-48FA-4A43-A4DC-AEC13D8AB0D4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A653EF54-48FA-4A43-A4DC-AEC13D8AB0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A653EF54-48FA-4A43-A4DC-AEC13D8AB0D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A653EF54-48FA-4A43-A4DC-AEC13D8AB0D4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6597861C-A736-49C8-B1B4-9260026B0AED}.Debug|Any CPU.ActiveCfg = Debug
+		{6597861C-A736-49C8-B1B4-9260026B0AED}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
